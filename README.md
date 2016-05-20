@@ -6,3 +6,6 @@
  
  Полный список встроенных тем оформления:
  https://developer.android.com/reference/android/R.style.html#TextAppearance_Holo_Widget_ActionBar_Title
+
+Стили и темы:
+https://developer.android.com/guide/topics/ui/themes.html
