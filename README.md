@@ -9,3 +9,6 @@
 
 Стили и темы:
 https://developer.android.com/guide/topics/ui/themes.html
+
+Библиотека изображений:
+https://developer.android.com/design/downloads/index.html
