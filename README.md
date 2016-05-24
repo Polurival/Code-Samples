@@ -14,4 +14,4 @@ https://developer.android.com/design/downloads/index.html
 
 SQLiteDatabase
 https://developer.android.com/reference/android/database/sqlite/SQLiteDatabase.html
-Cursor https://developer.android.com/reference/android/database/Cursor.html
+\n Cursor https://developer.android.com/reference/android/database/Cursor.html
