@@ -13,5 +13,4 @@ https://developer.android.com/guide/topics/ui/themes.html
 https://developer.android.com/design/downloads/index.html
 
 SQLiteDatabase
-https://developer.android.com/reference/android/database/sqlite/SQLiteDatabase.html
-\n Cursor https://developer.android.com/reference/android/database/Cursor.html
+https://developer.android.com/reference/android/database/sqlite/SQLiteDatabase.htmlCursor https://developer.android.com/reference/android/database/Cursor.html
