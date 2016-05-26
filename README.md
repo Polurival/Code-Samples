@@ -12,7 +12,10 @@ https://developer.android.com/guide/topics/ui/themes.html
 Библиотека изображений:
 https://developer.android.com/design/downloads/index.html
 
-SQLiteDatabase
+SQLiteDatabase:
 https://developer.android.com/reference/android/database/sqlite/SQLiteDatabase.html
 
-Cursor https://developer.android.com/reference/android/database/Cursor.html
+Cursor: https://developer.android.com/reference/android/database/Cursor.html
+
+Notification.Builder:
+https://developer.android.com/reference/android/app/Notification.Builder.html
