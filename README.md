@@ -6,7 +6,7 @@ https://developer.android.com/guide/practices/screens_support.html
  
 ---------------------------------------------------------------------------
 Полный список встроенных тем оформления:
-https://developer.android.com/reference/android/R.style.html#TextAppearance_Holo_Widget_ActionBar_Title
+https://developer.android.com/reference/android/R.style.html
 
 Стили и темы:
 https://developer.android.com/guide/topics/ui/themes.html
