@@ -15,6 +15,7 @@ https://developer.android.com/design/downloads/index.html
 
 Icons Generator:
 http://romannurik.github.io/AndroidAssetStudio/index.html
+
 ---------------------------------------------------------------------------
 
 SQLiteDatabase:
