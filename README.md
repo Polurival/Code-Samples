@@ -1,6 +1,11 @@
 # Code-Samples
 Android Code Samples and Useful links
  
+<b>Developer Android Training:</b>
+https://developer.android.com/training/index.html
+
+---------------------------------------------------------------------------
+
 Выбор имен папок для ресурсов:
 https://developer.android.com/guide/practices/screens_support.html
  
