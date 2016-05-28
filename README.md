@@ -40,6 +40,11 @@ https://developer.android.com/guide/topics/providers/content-providers.html
 
 ---------------------------------------------------------------------------
 
+Google Map:
+https://developer.android.com/training/maps/index.html
+
+---------------------------------------------------------------------------
+
 Google Play Publishing:
 https://developer.android.com/studio/publish/preparing.html
 https://developer.android.com/distribute/googleplay/start.html
