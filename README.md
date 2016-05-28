@@ -34,6 +34,9 @@ CursorLoader: https://developer.android.com/training/load-data-background/setup-
 Notification.Builder:
 https://developer.android.com/reference/android/app/Notification.Builder.html
 
+App Widgets:
+https://developer.android.com/guide/topics/appwidgets/index.html
+
 ---------------------------------------------------------------------------
 
 Content Providers
