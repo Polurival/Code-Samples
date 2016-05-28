@@ -1,4 +1,4 @@
-# Code-Samples
+# CodeSamples
 Android Code Samples and Useful links
  
 <b>Developer Android Training:</b>
