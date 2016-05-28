@@ -41,6 +41,11 @@ https://developer.android.com/guide/topics/providers/content-providers.html
 
 ---------------------------------------------------------------------------
 
+BroadcastReceiver:
+https://developer.android.com/reference/android/content/BroadcastReceiver.html
+
+---------------------------------------------------------------------------
+
 Google Map:
 https://developer.android.com/training/maps/index.html
 
