@@ -27,6 +27,7 @@ SQLiteDatabase:
 https://developer.android.com/reference/android/database/sqlite/SQLiteDatabase.html
 
 Cursor: https://developer.android.com/reference/android/database/Cursor.html
+CursorLoader: https://developer.android.com/training/load-data-background/setup-loader.html
 
 ---------------------------------------------------------------------------
 
