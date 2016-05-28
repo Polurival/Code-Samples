@@ -27,3 +27,8 @@ Cursor: https://developer.android.com/reference/android/database/Cursor.html
 
 Notification.Builder:
 https://developer.android.com/reference/android/app/Notification.Builder.html
+
+---------------------------------------------------------------------------
+
+Google Play Publishing:
+https://developer.android.com/studio/publish/preparing.html
