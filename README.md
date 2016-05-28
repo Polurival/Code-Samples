@@ -33,3 +33,4 @@ https://developer.android.com/reference/android/app/Notification.Builder.html
 Google Play Publishing:
 https://developer.android.com/studio/publish/preparing.html
 https://developer.android.com/distribute/googleplay/start.html
+https://play.google.com/books/reader?id=O2a5CgAAQBAJ&printsec=frontcover&output=reader&hl=ru&pg=GBS.PP1
