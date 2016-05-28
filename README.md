@@ -54,6 +54,14 @@ https://developer.android.com/training/maps/index.html
 
 ---------------------------------------------------------------------------
 
+Test Your App:
+https://developer.android.com/studio/test/index.html
+
+User scenario testing for Android:
+https://github.com/robotiumtech/robotium
+
+---------------------------------------------------------------------------
+
 Google Play Publishing:
 https://developer.android.com/studio/publish/preparing.html
 https://developer.android.com/distribute/googleplay/start.html
