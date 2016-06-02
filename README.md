@@ -29,6 +29,9 @@ https://developer.android.com/reference/android/database/sqlite/SQLiteDatabase.h
 Cursor: https://developer.android.com/reference/android/database/Cursor.html
 CursorLoader: https://developer.android.com/training/load-data-background/setup-loader.html
 
+ActiveAndroid Guide:
+https://github.com/codepath/android_guides/wiki/ActiveAndroid-Guide
+
 ---------------------------------------------------------------------------
 
 Notification.Builder:
