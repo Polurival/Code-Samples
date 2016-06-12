@@ -18,6 +18,9 @@ https://developer.android.com/guide/topics/ui/themes.html
 Библиотека изображений:
 https://developer.android.com/design/downloads/index.html
 
+Android Material Design Icons:
+https://design.google.com/icons
+
 Icons Generator:
 http://romannurik.github.io/AndroidAssetStudio/index.html
 
