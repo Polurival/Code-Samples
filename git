@@ -1,0 +1,2 @@
+Если git HEAD dateched at ..., то сделать так:
+git checkout -b branch_name origin/branch_name
